@@ -2,7 +2,8 @@
 
 ## Student Details
 * **Name:** Monica Njoki
-* **Student Number:** [Your Student ID Number]
+* **Student Number:** 670176
+
 
 ## Project Overview
 This repository contains a non-personalized movie recommender baseline constructed using Python, Pandas, and the MovieLens latest-small dataset. The system establishes two reference baselines for streaming homepages: a threshold-filtered popularity model and a Bayesian weighted-rating model.
